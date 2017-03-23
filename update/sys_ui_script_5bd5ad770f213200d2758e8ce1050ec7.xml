@@ -41,7 +41,7 @@ x_12642_test.yrdy = (function() {
         <sys_class_name>sys_ui_script</sys_class_name>
         <sys_created_by>rdobbyn</sys_created_by>
         <sys_created_on>2017-03-23 18:39:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5bd5ad770f213200d2758e8ce1050ec7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_12642_test.yrdy</sys_name>

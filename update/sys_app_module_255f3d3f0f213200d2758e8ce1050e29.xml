@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="DTest">222525370f213200d2758e8ce1050e33</application>
+        <application display_value="dtest2">695f3d3f0f213200d2758e8ce1050e28</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,35 +12,35 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>DTests</mobile_title>
+        <mobile_title>dtest2s</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_12642_test_dtest</name>
+        <name>x_12642_test_dtest2</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_12642_test_dtest_user</roles>
+        <roles>x_12642_test_dtest2_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>rdobbyn</sys_created_by>
-        <sys_created_on>2017-03-23 18:36:05</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2017-03-23 20:30:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ea2525370f213200d2758e8ce1050e33</sys_id>
+        <sys_id>255f3d3f0f213200d2758e8ce1050e29</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>DTests</sys_name>
+        <sys_name>dtest2s</sys_name>
         <sys_overrides/>
         <sys_package display_value="test" source="x_12642_test">7384e1330f213200d2758e8ce1050e21</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test">7384e1330f213200d2758e8ce1050e21</sys_scope>
-        <sys_update_name>sys_app_module_ea2525370f213200d2758e8ce1050e33</sys_update_name>
+        <sys_update_name>sys_app_module_255f3d3f0f213200d2758e8ce1050e29</sys_update_name>
         <sys_updated_by>rdobbyn</sys_updated_by>
-        <sys_updated_on>2017-03-23 18:36:05</sys_updated_on>
+        <sys_updated_on>2017-03-23 20:30:26</sys_updated_on>
         <timeline_page/>
-        <title>DTests</title>
+        <title>dtest2s</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

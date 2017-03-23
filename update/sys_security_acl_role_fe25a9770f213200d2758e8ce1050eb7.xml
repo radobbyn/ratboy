@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>rdobbyn</sys_created_by>
         <sys_created_on>2017-03-23 18:36:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>fe25a9770f213200d2758e8ce1050eb7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_12642_test_dtest.x_12642_test_dtest_user</sys_name>
