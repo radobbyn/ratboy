@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="DTest" max_length="40" name="x_12642_test_dtest" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New Field" max_length="40" name="new_field" type="string"/>
+    </element>
+</database>
